@@ -11,5 +11,5 @@ File system:
 - Files (Create / Delete / Move (Rename) / Copy)
 - Text files (Reading and processing text files)
 
-OC
+OS
 - Replacing scripts and commands
